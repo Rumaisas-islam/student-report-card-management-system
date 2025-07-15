@@ -21,15 +21,17 @@ A professional, console-based Python application that helps manage student repor
 
 ```
 
-STUDENT\_REPORT\_CARD/
+student_report_card/
 │
-├── LICENSE.md                  # MIT License
-├── .gitignore                  # Ignores **pycache**, etc.
-├── sample.txt                  # Sample report output
-├── student_report_card.py      # Main application logic
-├── banner.png                  # Project banner (for branding)
+├── LICENSE.md # MIT License
+├── .gitignore # Ignores pycache, .vscode, etc.
+├── README.md # Project documentation
+├── CHANGELOG.md # Version-wise changelog
+├── sample.txt # Sample report output
+├── student_report_card.py # Main application logic
+├── banner.png # Project banner (for branding)
 │
-└── test/                       # Test scripts
+└── test/ # Unit test scripts
 ├── test_add_student.py
 ├── test_delete_student.py
 ├── test_edit_student.py
