@@ -1,0 +1,21 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore text file backups or temporary logs
+student_backup.txt
+*.log
+
+# Ignore environment or editor-related files
+.env
+.vscode/
+.idea/
+
+# Ignore test result files or temporary sample outputs
+*.out
+*.tmp
+*.bak
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db

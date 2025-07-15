@@ -1,0 +1,15 @@
+=========================
+📄 Students Report Card
+Name: Ayesha Khan
+Roll number: 1023
+Class: 9A
+English marks: 85
+Maths marks: 92
+Science marks: 78
+Computer marks: 88
+Urdu marks: 90
+Islamiat marks: 80
+Total marks: 513/600
+Percentage: 85.50%
+Grade: A+
+=========================
