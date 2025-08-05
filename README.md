@@ -82,7 +82,6 @@ python test/test_search_student.py
 Content from `sample.txt`:
 
 ```
-=========================
 📄 Students Report Card
 Name: Ayesha Khan
 Roll number: 1023
